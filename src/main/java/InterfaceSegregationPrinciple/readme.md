@@ -6,4 +6,4 @@
 2. 一个接口包含了过多的方法，那么实现这个接口的类就必须实现所有方法，即使一些方法对它来说是无用的。
 
 ## 案例
-[ISP - 怪物/坏角色](src/main/java/InterfaceSegregationPrinciple)
+[ISP - 怪物/坏角色](/InterfaceSegregationPrinciple)

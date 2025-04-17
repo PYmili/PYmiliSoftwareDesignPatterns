@@ -8,4 +8,4 @@
 开闭强调扩展和不修改（实现方式是抽象、接口），依赖倒置强调不依赖底层（实现方式也是抽象、接口）
 
 ## 案例
-[DIP - 汽车租借](src/main/java/DependencyInversionPrinciple)
+[DIP - 汽车租借](/DependencyInversionPrinciple)
